@@ -1,5 +1,5 @@
 ### 👋 Hi there, I’m @Mohammed Maqsood 
-### 👀 I’m interested in Data Science, Machine Learning, Deep Learning
+### 👀 I’m interested Exploring the Realm of Data in Process Engineering
 ### 🌱 I’m currently learning Data Science
 ### 🔭 I’m currently working on Exploratory Data Analysis of Explosion Measurement Data 
 ### 📫 How to reach me...via Gmail mohammedmaqsood48@gmail.com
