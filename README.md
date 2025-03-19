@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m @Maqsood  
 ### 👀 Passionate about Data Exploration  
 ### 🌱 Currently diving into Data Science  
-### 🔭 Working on Data Analysis in Sustainability  
+### 🔭 Applying Data Analysis in Sustainability  
 ### 📫 Reach me at: mohammedmaqsood48@gmail.com  
 
 <!--
