@@ -1,10 +1,8 @@
-### 👋 Hi there, I’m @Mohammed Maqsood 
-### 👀 I’m interested Exploring the Realm of Data in Sustainability
-### 🌱 I’m currently learning Data Science
-### 🔭 I’m currently working on Exploratory Data Analysis of Explosion Measurement Data 
-### 📫 How to reach me...via Gmail mohammedmaqsood48@gmail.com
-
-
+### 👋 Hi there, I’m @Maqsood  
+### 👀 Passionate about Data Exploration  
+### 🌱 Currently diving into Data Science  
+### 🔭 Working on Data Analysis in Sustainability  
+### 📫 Reach me at: mohammedmaqsood48@gmail.com  
 
 <!--
 **Maqsood8/Maqsood8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
